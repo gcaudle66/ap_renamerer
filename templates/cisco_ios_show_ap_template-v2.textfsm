@@ -1,0 +1,7 @@
+Value AP_NAME (.+)
+Value MAC_ADDRESS ([a-fA-F0-9:\.]{12,17})
+
+Start
+  ^Cisco\s+AP\s+Name\s+:\s${AP_NAME}
+  ^MAC\sAddress\s+:\s${MAC_ADDRESS} -> Record 
+  
