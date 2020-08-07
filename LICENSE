@@ -646,7 +646,7 @@ the "copyright" line and a pointer to where the full notice is found.
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
-Copyright (c) 2020 Cisco Systems, Inc. or its affiliates
+
 Also add information on how to contact you by electronic and paper mail.
 
   If the program does terminal interaction, make it output a short
@@ -673,5 +673,3 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-
-Copyright (c) 2020 Cisco Systems, Inc. or its affiliates
