@@ -31,5 +31,5 @@ rename APs</ul>
 <h2>Running AP Rename Script.pdf</h2> located in this repo or on the Wiki page</p>
 
 
-
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/gcaudle66/ap_renamerer)
 </body
