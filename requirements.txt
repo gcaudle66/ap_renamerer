@@ -27,7 +27,7 @@ idna==2.9
 importlib-metadata==1.6.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
-lxml==4.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 ncclient==0.6.7
 netmiko==3.1.0
